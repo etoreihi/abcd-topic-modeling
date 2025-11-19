@@ -1,0 +1,391 @@
+ABCD STUDY TOPIC MODELING - SUMMARY REPORT
+=============================================================
+
+Total Documents Analyzed: 1293
+Number of Topics Identified: 20
+Dictionary Size: 10000 unique terms
+
+-------------------------------------------------------------
+TOPIC SUMMARY
+-------------------------------------------------------------
+
+Topic 0:
+  Documents: 75 (5.8%)
+  Top terms:
+    - screen: 0.0852
+    - pubertal: 0.0563
+    - medium: 0.0447
+    - video: 0.0253
+    - girl: 0.0220
+    - puberty: 0.0209
+    - boy: 0.0196
+    - timing: 0.0181
+    - game: 0.0175
+    - sma: 0.0156
+    - stage: 0.0122
+    - spend: 0.0108
+    - problematic: 0.0094
+    - digital: 0.0088
+    - usage: 0.0083
+
+Topic 1:
+  Documents: 94 (7.3%)
+  Top terms:
+    - peer: 0.0253
+    - rule: 0.0167
+    - victimization: 0.0141
+    - prosocial: 0.0113
+    - creative: 0.0110
+    - odd: 0.0108
+    - applicable: 0.0098
+    - govern: 0.0093
+    - emotion: 0.0070
+    - bully: 0.0069
+    - aggression: 0.0063
+    - sociodemographic: 0.0054
+    - regulation: 0.0052
+    - transgender: 0.0052
+    - feel: 0.0048
+
+Topic 2:
+  Documents: 37 (2.9%)
+  Top terms:
+    - covid: 0.0905
+    - obesity: 0.0831
+    - pandemic: 0.0642
+    - bmi: 0.0596
+    - overweight: 0.0206
+    - food: 0.0172
+    - diet: 0.0165
+    - intake: 0.0141
+    - gain: 0.0131
+    - height: 0.0131
+    - waist: 0.0107
+    - fat: 0.0105
+    - adiposity: 0.0101
+    - percentile: 0.0099
+    - dietary: 0.0092
+
+Topic 3:
+  Documents: 150 (11.6%)
+  Top terms:
+    - propose: 0.0061
+    - fmri: 0.0048
+    - signal: 0.0047
+    - growth: 0.0042
+    - replication: 0.0039
+    - medical: 0.0037
+    - lifespan: 0.0036
+    - stage: 0.0035
+    - normative: 0.0030
+    - patient: 0.0029
+    - thickness: 0.0029
+    - confound: 0.0027
+    - absolute: 0.0026
+    - median: 0.0025
+    - tool: 0.0025
+
+Topic 4:
+  Documents: 107 (8.3%)
+  Top terms:
+    - neighborhood: 0.0469
+    - adversity: 0.0284
+    - deprivation: 0.0231
+    - caregiver: 0.0175
+    - poverty: 0.0171
+    - externalize: 0.0153
+    - threat: 0.0138
+    - disadvantage: 0.0107
+    - adverse: 0.0080
+    - event: 0.0076
+    - safety: 0.0075
+    - violence: 0.0074
+    - pollution: 0.0073
+    - air: 0.0072
+    - economic: 0.0071
+
+Topic 5:
+  Documents: 50 (3.9%)
+  Top terms:
+    - discrimination: 0.0680
+    - racial: 0.0673
+    - ethnic: 0.0645
+    - sexual: 0.0376
+    - minority: 0.0343
+    - identity: 0.0342
+    - latinx: 0.0230
+    - racism: 0.0223
+    - disparity: 0.0210
+    - cultural: 0.0195
+    - orientation: 0.0186
+    - american: 0.0183
+    - perceive: 0.0119
+    - diversity: 0.0108
+    - stigma: 0.0094
+
+Topic 6:
+  Documents: 65 (5.0%)
+  Top terms:
+    - alcohol: 0.1177
+    - cannabis: 0.0430
+    - impulsivity: 0.0402
+    - drug: 0.0347
+    - sip: 0.0296
+    - urgency: 0.0203
+    - seek: 0.0185
+    - sensation: 0.0182
+    - tobacco: 0.0177
+    - hair: 0.0166
+    - initiation: 0.0141
+    - drink: 0.0132
+    - nicotine: 0.0121
+    - upps: 0.0096
+    - cigarette: 0.0085
+
+Topic 7:
+  Documents: 49 (3.8%)
+  Top terms:
+    - prenatal: 0.0519
+    - pregnancy: 0.0379
+    - maternal: 0.0368
+    - language: 0.0272
+    - thickness: 0.0219
+    - preterm: 0.0195
+    - mother: 0.0167
+    - bilingual: 0.0150
+    - surface: 0.0146
+    - caffeine: 0.0143
+    - offspring: 0.0143
+    - gestational: 0.0127
+    - asymmetry: 0.0117
+    - expose: 0.0110
+    - growth: 0.0106
+
+Topic 8:
+  Documents: 7 (0.5%)
+  Top terms:
+    - mediation: 0.0725
+    - depressive: 0.0703
+    - mediate: 0.0609
+    - hippocampal: 0.0477
+    - emotion: 0.0468
+    - amygdala: 0.0447
+    - indirect: 0.0388
+    - regulation: 0.0232
+    - pathway: 0.0207
+    - mediator: 0.0190
+    - hippocampus: 0.0140
+    - vulnerability: 0.0133
+    - receptor: 0.0125
+    - stressful: 0.0115
+    - left: 0.0113
+
+Topic 9:
+  Documents: 58 (4.5%)
+  Top terms:
+    - stop: 0.0490
+    - trial: 0.0349
+    - irritability: 0.0303
+    - sst: 0.0260
+    - inhibitory: 0.0242
+    - ssrt: 0.0191
+    - signal: 0.0175
+    - inhibition: 0.0133
+    - drift: 0.0108
+    - stimulus: 0.0106
+    - ssd: 0.0070
+    - reaction: 0.0067
+    - workingmemory: 0.0065
+    - fail: 0.0062
+    - lcbc: 0.0062
+
+Topic 10:
+  Documents: 88 (6.8%)
+  Top terms:
+    - subcortical: 0.0201
+    - frontal: 0.0196
+    - gyrus: 0.0179
+    - fmri: 0.0179
+    - default: 0.0134
+    - dmn: 0.0134
+    - rsfc: 0.0133
+    - parietal: 0.0123
+    - activation: 0.0107
+    - left: 0.0102
+    - cingulate: 0.0099
+    - face: 0.0098
+    - superior: 0.0097
+    - surface: 0.0094
+    - visual: 0.0093
+
+Topic 11:
+  Documents: 39 (3.0%)
+  Top terms:
+    - pain: 0.1040
+    - ple: 0.0969
+    - psychosis: 0.0645
+    - psychotic: 0.0623
+    - sport: 0.0518
+    - distress: 0.0240
+    - prodromal: 0.0171
+    - chronic: 0.0169
+    - schizophrenia: 0.0147
+    - distressing: 0.0131
+    - somatic: 0.0076
+    - exercise: 0.0070
+    - mild: 0.0066
+    - stimulant: 0.0064
+    - spectrum: 0.0064
+
+Topic 12:
+  Documents: 35 (2.7%)
+  Top terms:
+    - eat: 0.1249
+    - ace: 0.0898
+    - binge: 0.0514
+    - chronotype: 0.0312
+    - adverse: 0.0224
+    - blood: 0.0163
+    - abuse: 0.0141
+    - food: 0.0132
+    - pressure: 0.0092
+    - odd: 0.0081
+    - eating: 0.0070
+    - sexual: 0.0061
+    - nagata: 0.0056
+    - neglect: 0.0054
+    - logistic: 0.0047
+
+Topic 13:
+  Documents: 164 (12.7%)
+  Top terms:
+    - adhd: 0.0589
+    - externalize: 0.0274
+    - hyperactivity: 0.0120
+    - dimension: 0.0111
+    - thickness: 0.0107
+    - autism: 0.0087
+    - diagnostic: 0.0072
+    - depressed: 0.0064
+    - subtype: 0.0054
+    - medication: 0.0052
+    - dsm: 0.0052
+    - checklist: 0.0049
+    - neurodevelopmental: 0.0047
+    - gray: 0.0042
+    - comorbidity: 0.0040
+
+Topic 14:
+  Documents: 18 (1.4%)
+  Top terms:
+    - diffusion: 0.0569
+    - motion: 0.0457
+    - tract: 0.0447
+    - signal: 0.0280
+    - dmri: 0.0231
+    - fmri: 0.0230
+    - fiber: 0.0184
+    - head: 0.0180
+    - microstructure: 0.0179
+    - tissue: 0.0175
+    - density: 0.0129
+    - tensor: 0.0122
+    - dti: 0.0113
+    - gray: 0.0093
+    - anisotropy: 0.0089
+
+Topic 15:
+  Documents: 28 (2.2%)
+  Top terms:
+    - suicide: 0.0918
+    - suicidal: 0.0763
+    - attempt: 0.0453
+    - ideation: 0.0414
+    - injury: 0.0409
+    - lifetime: 0.0356
+    - trauma: 0.0353
+    - suicidality: 0.0313
+    - traumatic: 0.0305
+    - thought: 0.0305
+    - caregiver: 0.0208
+    - preadolescent: 0.0143
+    - ptsd: 0.0138
+    - behaviour: 0.0114
+    - odd: 0.0113
+
+Topic 16:
+  Documents: 54 (4.2%)
+  Top terms:
+    - profile: 0.0307
+    - intelligence: 0.0288
+    - trait: 0.0266
+    - executive: 0.0224
+    - latent: 0.0213
+    - fluid: 0.0159
+    - neurocognitive: 0.0157
+    - composite: 0.0140
+    - class: 0.0138
+    - read: 0.0104
+    - speed: 0.0088
+    - reading: 0.0088
+    - skill: 0.0084
+    - battery: 0.0079
+    - sort: 0.0079
+
+Topic 17:
+  Documents: 47 (3.6%)
+  Top terms:
+    - sleep: 0.3433
+    - duration: 0.0714
+    - disturbance: 0.0404
+    - caffeine: 0.0190
+    - academic: 0.0152
+    - fitbit: 0.0146
+    - insomnia: 0.0132
+    - short: 0.0113
+    - wake: 0.0106
+    - advance: 0.0105
+    - bedtime: 0.0095
+    - intake: 0.0080
+    - insufficient: 0.0074
+    - circadian: 0.0065
+    - weekday: 0.0061
+
+Topic 18:
+  Documents: 96 (7.4%)
+  Top terms:
+    - gene: 0.0414
+    - prs: 0.0292
+    - genome: 0.0232
+    - twin: 0.0210
+    - trait: 0.0200
+    - polygenic: 0.0197
+    - variant: 0.0173
+    - heritability: 0.0169
+    - ancestry: 0.0137
+    - gwa: 0.0131
+    - pgs: 0.0128
+    - snps: 0.0119
+    - cell: 0.0110
+    - genotype: 0.0103
+    - loci: 0.0103
+
+Topic 19:
+  Documents: 32 (2.5%)
+  Top terms:
+    - reward: 0.1224
+    - activation: 0.0476
+    - delay: 0.0458
+    - discount: 0.0255
+    - anticipation: 0.0226
+    - striatum: 0.0177
+    - trial: 0.0147
+    - striatal: 0.0141
+    - accumben: 0.0135
+    - caudate: 0.0134
+    - monetary: 0.0117
+    - incentive: 0.0112
+    - fmri: 0.0106
+    - inhibition: 0.0091
+    - motivation: 0.0091
+
